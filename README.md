@@ -51,9 +51,7 @@ Any other styling is possible. More CSS style contributions and forks are welcom
 
 ### Author
 
-Eliseo Papa ([Twitter](http://twitter.com/elipapa)/[Github](http://github.com/elipapa)/[Website](https://elipapa.github.io)).
-
-![Eliseo Papa](https://s.gravatar.com/avatar/eae1f0c01afda2bed9ce9cb88f6873f6?s=100)
+https://github.com/Sherlin324/Massey-Resume/settings/pages
 
 ### License
 
