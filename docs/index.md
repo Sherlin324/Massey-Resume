@@ -1,85 +1,55 @@
 ---
 layout: cv
-title: Brigham Young's Resume
+title: Sherlin Massey Resume
 ---
-# Brigham Young
-The second prophet of The Church of Jesus Christ of Latter-day Saints.
 
-<div id="webaddress">
-<a href="datascience@byui.edu">datascience@byui.edu</a>
-| <a href="https://byuidatascience.github.io/development.html">Data Science Program</a>
-| <a href="https://www.linkedin.com/groups/13537407/">LinkedIn</a>
-| <a href="https://github.com/byuids-resumes">GitHub</a>
-</div>
+* Phone: 2086079289
+* Email: sherlin.massey@gmail.com
+* LinkedIn: [Sherlin Massey](https://www.linkedin.com/in/sherlin-massey-50179390/)
 
-<!-- https://www.monique.tech/the-art-of-markdown -->
+## Summary
+January 2020 - Present
+* Created and modified reports and Dashboards using Power Bi
+* Worked on analysis using R studios, Python, and SQL
+* Detail Oriented with focus on accuracy in delivering tasks
+* Willingness to Learn and Adaptability
+* Productivity and Time Management
+* Teamwork and collaboration
+
+## Experience
+
+### Data Analyst | Rexburg, ID | July 2023 - Present
+* Skillfully extracted and visualized data using Microsoft Power BI, Excel, and related platforms, facilitating informed decision-making.
+* Partnered with leadership to develop impactful reports and dashboards, presenting novel solutions to data challenges for continuous improvement.
+* Improved usability of reports and dashboards. Led data projects, ensuring timely delivery and comprehensive documentation.
+
+### Cellular Department Associate and Ordering Specialist | Brigham Young University - Idaho | Rexburg, ID | May 2020 - June 2022
+* Oversaw calls, emails, and orders, coordinating with carriers (Verizon, Sprint, T-Mobile).
+* Managed customer orders, updating both carriers and customers, and collaborated with carriers to facilitate customer needs.
+* Ensured daily school website updates for improved product availability information.
+* Maintained a streamlined, clean, and safe store environment, handling phone line activations, resolving carrier issues, and assisting with device orders.
+
+### Guest Service Coordinator | Blixt & Co | Teton, ID | September 2021 - November 2021
+* Orchestrated guest schedules with meticulous planning and accommodation inspections, ensuring adherence to company standards.
+* Managed daily rosters, considering individual preferences, and supervised guest transportation, including airport trips.
+
+### Academic Advisor | MODI ATI Pvt Ltd, Stratford University | New Delhi, India | June 2014 - January 2016
+* [Additional details if necessary]
+
+## Volunteering
+
+### The Church of Jesus Christ of Latter-Day Saints | Full-time Missionary
+* England and India | August 2017 - February 2019
+* Served as a full-time missionary in India Bangalore Mission, England London Mission, and England Leeds Mission.
+* Collected and analyzed data from multiple volunteer groups to identify trends and created plans for future growth and improvement.
 
 ## Education
+* Bachelors of Science in Business Analytics
+* Certificates: Business Fundamentals and Data Science
+* Brigham Young University-Idaho
 
-`2025-2027`
-__LDS Business College__, Salt Lake City, UT
-
-- Full academic scholarship with 4.0 GPA
-
-`Expected 2029`
-__Brigham Young University - Idaho__, Rexburg, ID
-
-- 4.0 Major GPA
-
-
-## Related Experience
-
-### Internships
-
-`January 2028 - June 2028`
-__Pacific Northwest National Lab__, Richland, WA
-
-- Worked on novel methods for soil sampling to reduce laboratory measurements
-- Used R and Visual Sample Plan to establish new sampling algorithms
-- Published a journal article in Environmental Quality.
-
-### Data Science Lead
-
-`April 2027 - June 2027`
-__Westmark Credit Union__, Consultant
-
-- Developed a predicted model to support Westmark in custumer conversion from dealer loans.
-- Used R and Python to build a machine learning model using CatBoost in Python and the Tidyverse for data visualization and munging. 
-- Improved previous model development to over 85% balanced accuracy. Expect model to be implemented in Westmark business practices.
-
-`September 2027 - April 2028`
-__Good2Go__, Consultant
-
-- Built product ordering and supply predictive algorithms for chips and beverages categories
-- Established standardized SQL calls and connections for PowerBI dashboards
-- Found over $35k in waste and saved over 200 annual hours of store quality control work 
-
-### Data Science Consulting Team
-
-`January 2027 - April 2027`
-__Imagine Learning__
-
-- Build web scraping tool to find and format school district technology data.
-- Used R and the Rvest package to parse and format web data.
-- Saved 30 hours a month with the automated scripts.
-
-`April 2027 - July 2027`
-__Pinnacle Management Group__, 
-
-- Proof of concept development of dashboards using client's corporate data.
-- Built and documented differences of PowerBI, Google Dashoards, and Tableau.
-- Saved client $10k in database and dashboard server fees and validated future dashboard processes.
-
-
-## Service and Work History
-
-`2025-2027`
-__Math Tutor__, LDSBC
-
-
-`2023-2025`
-__Service Missionary__, South Africa
-
+## Skills and Projects
+* [Additional details if necessary]
 
 
 <!-- ### Footer
